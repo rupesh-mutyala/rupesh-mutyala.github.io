@@ -1,0 +1,27 @@
+.page {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.page1 {
+    background-image: url('../../../public/pageone.png');
+    background-color: #000;
+}
+
+.page2 {
+    background-image: url('../../../public/pagetwo.png');
+}
+
+.page3 {
+    background-image: url('../../../public/pagethree.png');
+}
+
+.page4 {
+    background-image: url('../../../public/pagefour.png');
+}
+
+.page5 {
+    background-image: url('../../../public/pagefive.png');
+}
