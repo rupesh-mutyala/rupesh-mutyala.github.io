@@ -1,3 +1,3 @@
 import Home from "@/packages/home";
 
-export default Home
+export default Home;
